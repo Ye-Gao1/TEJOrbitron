@@ -8,6 +8,16 @@
     <link rel="stylesheet" href="css/styles.css">
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            VanillaTilt.init(document.querySelectorAll(".tilt-card"), {
+                max: 10,
+                speed: 400,
+                scale: 1.1
+            });
+        });
+    </script>
 </head>
 <body>
     
@@ -50,5 +60,6 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/oneko.js"></script>
 </body>
 </html> 

@@ -37,11 +37,11 @@ $team_members = [
             <div class="mx-12 my-6">
                 <div class="p-8 border-4 border-dashed border-pink">
                     <p class="mb-12 text-2xl neuebit">
-                        We are a team of forward-thinking engineers, designers, and visionaries passionate about blending nature’s brilliance with modern robotics. Inspired by the agility and adaptability of spiders, our soft-jointed Orbitron is engineered to navigate where conventional machines cannot. Whether it's transporting materials across hazardous work sites, retrieving individuals from disaster zones, or exploring treacherous, uncharted landscapes, Orbitron is designed to serve with precision, care, and resilience. Sustainability is at our core—we champion efficient, eco-conscious production methods to shape a safer, more accessible world for all.
+                        We are a team of forward-thinking engineers, designers, and visionaries passionate about blending nature's brilliance with modern robotics. Inspired by the agility and adaptability of spiders, our soft-jointed Orbitron is engineered to navigate where conventional machines cannot. Whether it's transporting materials across hazardous work sites, retrieving individuals from disaster zones, or exploring treacherous, uncharted landscapes, Orbitron is designed to serve with precision, care, and resilience. Sustainability is at our core—we champion efficient, eco-conscious production methods to shape a safer, more accessible world for all.
                     </p>
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         <?php foreach ($team_members as $member): ?>
-                            <div class="p-4 text-xl leading-6 tracking-wide bg-pink neuebit">
+                            <div class="p-4 text-xl leading-6 tracking-wide bg-pink neuebit tilt-card">
                                 <div class="flex justify-center mb-4">
                                     <div class="w-32 h-32 rounded-full border-4 border-white overflow-hidden">
                                         <img src="<?php echo $member['image']; ?>" alt="<?php echo $member['name']; ?>" class="w-full h-full object-cover">

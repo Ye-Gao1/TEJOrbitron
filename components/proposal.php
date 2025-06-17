@@ -13,7 +13,7 @@
                     <li>• Fold‑into‑ball "roll" capability via coordinated leg retraction</li>
                 </ul>
             </div>
-            <div class="h-64 bg-center bg-cover border-4 border-dashed border-pink bg-clip-padding xl:h-auto"
+            <div class="h-64 bg-center bg-cover border-4 border-dashed border-pink bg-clip-padding xl:h-auto tilt-card"
                  style="background-image: url('/images/proposal/plan1.png')">
             </div>
 
@@ -26,7 +26,7 @@
                     <li>• Self‑righting routine for automatic recovery</li>
                 </ul>
             </div>
-            <div class="h-64 bg-center bg-cover border-4 border-dashed border-pink bg-clip-padding xl:h-auto"
+            <div class="h-64 bg-center bg-cover border-4 border-dashed border-pink bg-clip-padding xl:h-auto tilt-card"
                  style="background-image: url('/images/proposal/plan2.png')">
             </div>
 
