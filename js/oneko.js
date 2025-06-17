@@ -77,13 +77,14 @@
         width: 100%;
         padding: 8px 10px;
         margin: 5px 0;
-        background: #f0f8ff;
+        background: rgb(25, 93, 153);
         border: 1px solid #0e6dad;
         border-radius: 5px;
         cursor: pointer;
         transition: all 0.2s;
         font-size: 14px;
         text-align: left;
+        color: white;
       }
       .oneko-control-button:hover {
         background: #0e6dad;
