@@ -1,6 +1,6 @@
 # Orbitron
 
-A website on a old robot I made. Load time might be long as it's in php
+A website on a old robot I made. Load time might be long as it's in php. alot of the text is ai generated was to lazy to write them.
 
 ## Main Cool Affects! 
 
