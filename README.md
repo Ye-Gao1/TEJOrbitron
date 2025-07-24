@@ -6,6 +6,8 @@ A website on a old robot I made. Load time might be long as it's in php. alot of
 
 - Cat that follows you can connects to a api that can tell you time, weather and date. All while able to say cat puns
 <img width="504" height="330" alt="image" src="https://github.com/user-attachments/assets/2830c9d7-91ef-4d9c-b195-ab4ed236b447" />
+<img width="311" height="135" alt="image" src="https://github.com/user-attachments/assets/0b20b41f-e3f8-4d31-84ea-5f8d5c910954" />
+
 
 - Style the website with tailwind css.
 
